@@ -1,4 +1,4 @@
-FROM alpine:3.11.6 as alpine
+FROM alpine:latest as alpine
 
 ARG RELEASE_VERSION=latest
 
